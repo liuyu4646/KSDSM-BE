@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c402cf87-d1fd-4d18-bb36-026f739f2622" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="c402cf87-d1fd-4d18-bb36-026f739f2622" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/be.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/be.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zos/ksdsm/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zos/ksdsm/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zos/ksdsm/service/LoginService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zos/ksdsm/service/LoginService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zos/ksdsm/util/AuthUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zos/ksdsm/util/AuthUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zos/ksdsm/util/SslUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zos/ksdsm/util/SslUtil.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,45 +20,61 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1dkHploEueweniBXxOnp3F9aTBb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zos.ksdsm.util" />
       <recent name="com.zos.ksdsm.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\课件\主机软件开发\期末项目\KSDSM\KSDSM-BE\be\src\main\java\com\zos\ksdsm\domain" />
       <recent name="C:\Users\DELL\Desktop\zos\be\src\main\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="KSDSMApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zos.ksdsm.KSDSMApplication" />
       <module name="be" />
@@ -63,14 +88,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/be/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="Application.KSDSMApplication" />
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\50587\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -79,7 +120,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1592905477559</updated>
+      <workItem from="1593011692582" duration="1851000" />
+      <workItem from="1593098877855" duration="2105000" />
+      <workItem from="1593144325970" duration="3635000" />
+      <workItem from="1593155308044" duration="3662000" />
+      <workItem from="1593159589123" duration="1217000" />
+      <workItem from="1593171009748" duration="12481000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1593011821636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1593011821636" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1593155387727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593155387727" />
+    <state width="1493" height="119" key="GridCell.Tab.0.bottom" timestamp="1593196611692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593196611692" />
+    <state width="1493" height="119" key="GridCell.Tab.0.center" timestamp="1593196611692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593196611692" />
+    <state width="1493" height="119" key="GridCell.Tab.0.left" timestamp="1593196611692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593196611692" />
+    <state width="1493" height="119" key="GridCell.Tab.0.right" timestamp="1593196611692">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="119" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593196611692" />
+    <state x="270" y="55" key="SettingsEditor" timestamp="1593183002986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593183002986" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1593171013092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593171013092" />
   </component>
 </project>
