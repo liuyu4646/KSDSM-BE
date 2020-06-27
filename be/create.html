@@ -7,28 +7,37 @@
   <meta charset="utf-8">
   <meta name="keywords" content=""/>
   <link href="./res/static/css/style.css" rel='stylesheet' type='text/css' />
+    <link rel="stylesheet" href="./res/static/css/common.css">
 
 </head>
 
 <body>
   <header>
-    <h1>创建KSDS数据集</h1>
+      <br><br><br><br>
+      <h1>创建KSDS数据集</h1>
   </header>
-  <div class="w3ls-contact">
-    <form action="#" method="post">
 
-      <div class="agile-field-txt">
-        <label>
-         输入要创建的数据集的名称：</label>
-		 <textarea name="Comments" placeholder="Enter name here..." required=""></textarea>
+  <div class="dowebok">
+      <br><br><br><br><br><br><br><br><br><br><br>
+      <div class="form-item">
+          <input id="filename" placeholder="输入要创建的数据集名称" type="text" autocomplete="off">
       </div>
 
-      <div class="w3ls-contact  w3l-sub">
-        <input type="submit" value="点此创建">
+      <div class="form-item">
+          <button id="submit"><a>点此创建</a></button>
       </div>
-
-    </form>
   </div>
+
+  <script src="./res/static/js/jquery.min.js"></script>
+  <script>
+    $(function () {
+      $('input').val('')
+      $('#submit').on('click', function () {
+        $('.tip').show()
+      })
+    })
+  </script>
+  <script type="text/javascript" src="./res/static/js/add.js"></script>
 </body>
 
 </html>
